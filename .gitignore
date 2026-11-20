@@ -1,0 +1,6 @@
+kit/
+kit-download
+bundle*.tar.gz
+*.jsonl
+check*.txt
+__pycache__/
